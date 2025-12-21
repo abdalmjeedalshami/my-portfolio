@@ -14,13 +14,10 @@ function ProjectCard({ project }) {
         target="_blank"
         className={`w-full relative rounded-xl border-fun-gray border p-2 transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink will-change-projectCard`}
       >
-        <Image
-  src={project.img}
-  alt={project.title}
-  width={400}
-  height={250}
-  className="w-full h-48 rounded-md"
-/>
+        <img
+          className="w-full rounded-md"
+          src={project.img}
+        />
       </a>
       <div className="w-full mt-5">
         <div className="flex projects-center justify-between">
