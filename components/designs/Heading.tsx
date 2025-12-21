@@ -11,7 +11,7 @@ function Heading() {
         />
       </h1>
       <p className="text-fun-gray text-xl sm:text-2xl">
-        Enough said. Let's have the pictures do the talking.
+        There is no samples yet.
       </p>
     </div>
   );

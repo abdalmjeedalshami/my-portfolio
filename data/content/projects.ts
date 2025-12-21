@@ -31,7 +31,7 @@ const projects: Project[] = [
     id: 3,
     title: "Agrios",
     desc: "Agriculture & Organic Market",
-    img: "/static/projects/Agrios.png",
+    img: "/static/projects/agrios.png",
     tags: ["React", "NextJS", "SCSS", "API"],
   },
   {

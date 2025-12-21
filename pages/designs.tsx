@@ -8,11 +8,11 @@ function designs() {
   return (
     <Page
       currentPage="Designs"
-      meta={{ desc: "I'm an avid self-taught designer too! I publish all my web and creative designs on Dribbble also." }}
+      meta={{ desc: "I'm an avid self-taught designer too!" }}
     >
       <Heading />
-      <Projects />
-      <More />
+      {/* <Projects /> */}
+      {/* <More /> */}
     </Page>
   );
 }

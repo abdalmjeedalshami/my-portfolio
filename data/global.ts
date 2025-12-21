@@ -74,31 +74,19 @@ export const footer: Footer = {
       links: [
         {
           name: "GitHub",
-          link: "https://github.com/braydentw",
+          link: "https://github.com/abdalmjeedalshami",
           icon: "/static/icons/github-f.svg",
           leavesWebsite: true,
         },
         {
           name: "LinkedIn",
-          link: "https://www.linkedin.com/in/braydentw/",
+          link: "linkedin.com/in/abd-al-mjeed-al-shami-550155255/",
           icon: "/static/icons/linkedin-f.svg",
           leavesWebsite: true,
         },
         {
-          name: "Dribbble",
-          link: "https://dribbble.com/braydentw",
-          icon: "/static/icons/dribbble-f.svg",
-          leavesWebsite: true,
-        },
-        {
-          name: "IndieHackers",
-          link: "https://indiehackers.com/braydentw",
-          icon: "/static/icons/indiehackers-f.svg",
-          leavesWebsite: true,
-        },
-        {
           name: "Email",
-          link: "mailto:contact@braydentw.io",
+          link: "abd.almjeed.alshami.1@gmail.com",
           icon: "/static/icons/mail-f.svg",
           leavesWebsite: true,
         },
@@ -106,8 +94,8 @@ export const footer: Footer = {
     },
   ],
   support: {
-    buymeacoffee: "braydenw",
-    paypal: "braydentw",
-    message: "I appreciate your support very much! 💙",
+    buymeacoffee: "",
+    paypal: "",
+    message: "",
   },
 };
