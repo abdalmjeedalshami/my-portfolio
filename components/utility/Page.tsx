@@ -7,8 +7,8 @@ import React, { ReactChildren } from "react";
 function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
   const pageTitle = `${
     currentPage === "Home"
-      ? "Brayden Wright - Web Developer, Designer, Creator."
-      : `${currentPage} - BraydenTW.io`
+      ? "Abd Al-Mjeed Al-Shami - Web Developer, Designer, Creator."
+      : `${currentPage} - Abd Al-Mjeed.io`
   }`;
   console.log(currentPage);
   return (
