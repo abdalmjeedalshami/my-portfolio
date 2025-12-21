@@ -55,15 +55,6 @@ const projects: Project[] = [
     img: "/static/projects/lemon-wares.png",
     tags: ["HTML", "CSS", "OOP", "Swiper"]
   },
-  {
-    id: 7,
-    title: "Madlibs",
-    desc: "A simple version of Madlibs built for the web!",
-    img: "/static/projects/madlibs.png",
-    link: "https://fillemin.netlify.app/",
-    github: "https://github.com/braydentw/madlibs",
-    tags: ["HTML", "CSS", "Javascript"],
-  },
 ];
 
 export const allTags = []
