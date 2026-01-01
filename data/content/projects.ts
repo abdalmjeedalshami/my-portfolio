@@ -7,7 +7,7 @@ const projects: Project[] = [
     title: "Articula",
     desc: "Learn with expert anytime anywhere.",
     img: "/static/projects/articulaImage.png",
-    link: "https://ixcoders-articula-app.vercel.app/",
+    link: "https://login-for-vercel.vercel.app",
     github: "https://github.com/abdalmjeedalshami/ixcoders-articula-app",
     tags: ["HTML", "CSS", "JS", "React", "Bootstrap", "JSON"],
   },
