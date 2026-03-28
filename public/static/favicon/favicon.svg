@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="blueGradAlt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2196F3"/>
+      <stop offset="100%" stop-color="#0B3B5F"/>
+    </linearGradient>
+  </defs>
+  <!-- Background: rounded square with transparent inside? Let's use a circle with gradient but keep transparency outside -->
+  <circle cx="256" cy="256" r="210" fill="url(#blueGradAlt)" stroke="#90CAF9" stroke-width="8"/>
+  
+  <!-- Abstract "A" made from two slanted lines and a crossbar, but with a code twist -->
+  <!-- Left slanted line -->
+  <line x1="170" y1="360" x2="256" y2="150" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round"/>
+  <!-- Right slanted line -->
+  <line x1="342" y1="360" x2="256" y2="150" stroke="#FFFFFF" stroke-width="28" stroke-linecap="round"/>
+  <!-- Crossbar (with slight angle to match) -->
+  <line x1="210" y1="270" x2="302" y2="270" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+  
+  <!-- Optional: small code brackets near the bottom as decoration -->
+  <text x="256" y="430" font-family="monospace" font-size="28" text-anchor="middle" fill="#BBDEFB" font-weight="bold">&lt; / &gt;</text>
+</svg>
