@@ -69,7 +69,7 @@ const projects: Project[] = [
     id: 7,
     title: "panto",
     desc: "",
-    img: "/static/projects/articulaImage.png",
+    img: "/static/projects/panto.png",
     link: "https://panto-t.vercel.app",
     github: "https://github.com/abdalmjeedalshami/panto",
     tags: ["HTML", "CSS", "OOP", "Swiper"]
@@ -78,7 +78,7 @@ const projects: Project[] = [
     id: 8,
     title: "Via Tours",
     desc: "",
-    img: "/static/projects/articulaImage.png",
+    img: "/static/projects/via-tours.png",
     link: "https://via-tours-t.vercel.app",
     github: "https://github.com/abdalmjeedalshami/via-tours",
     tags: ["HTML", "CSS", "OOP", "Swiper"]
@@ -87,7 +87,7 @@ const projects: Project[] = [
     id: 9,
     title: "Best AI chatbots 2025",
     desc: "",
-    img: "/static/projects/articulaImage.png",
+    img: "/static/projects/do-not-found.jpg",
     link: "/projects",
     github: "https://github.com/abdalmjeedalshami/The-best-AI-chatbots-of-2025",
     tags: ["HTML", "CSS", "OOP", "Swiper"]
