@@ -16,8 +16,8 @@ const projects: Project[] = [
     title: "3DFi",
     desc: "Create stunning 3D assets effortlessly. No coding required.",
     img: "/static/projects/3dfiImage.png",
-    link: "#",
-    github: "#",
+    link: "https://3dfi.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/3DFi",
     tags: ["HTML", "CSS", "Javascript"],
   },
   {
@@ -25,6 +25,8 @@ const projects: Project[] = [
     title: "3legant",
     desc: "Stylish furniture, affordable prices, timeless designs, transforming homes into comfortable living spaces.",
     img: "/static/projects/3legant-image.jpg",
+    link: "https://3legant-t.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/3legant",
     tags: ["HTML", "CSS", "OOP", "Swiper"],
   },
   {
@@ -32,6 +34,8 @@ const projects: Project[] = [
     title: "Agrios",
     desc: "Agriculture & Organic Market",
     img: "/static/projects/agrios.png",
+    link: "https://agrios-t.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/Agrios",
     tags: ["React", "NextJS", "SCSS", "API"],
   },
   {
@@ -39,6 +43,8 @@ const projects: Project[] = [
     title: "Crafting Digital",
     desc: "Transforming ideas into elegant solutions through creative design and innovative development",
     img: "/static/projects/crafting-digital.png",
+    link: "https://crafting-digital.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/crafting-digital",
     tags: ["NPM", "HTML"],
   },
   {
@@ -46,6 +52,8 @@ const projects: Project[] = [
     title: "Future Tech",
     desc: "Explore the Frontiers of Artificial Intelligence",
     img: "/static/projects/future-tech.png",
+    link: "https://future-tech-t.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/future-tech",
     tags: ["HTML", "CSS", "OOP", "Swiper"]
   },
   {
@@ -53,6 +61,35 @@ const projects: Project[] = [
     title: "Lemon Wares",
     desc: "Blazing fast web hosting for individuals and businesses of all sizes backed by 24x7x365 Support.",
     img: "/static/projects/lemon-wares.png",
+    link: "https://lemon-wares-t.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/lemon-wares",
+    tags: ["HTML", "CSS", "OOP", "Swiper"]
+  },
+  {
+    id: 7,
+    title: "panto",
+    desc: "",
+    img: "/static/projects/articulaImage.png",
+    link: "https://panto-t.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/panto",
+    tags: ["HTML", "CSS", "OOP", "Swiper"]
+  },
+  {
+    id: 8,
+    title: "Via Tours",
+    desc: "",
+    img: "/static/projects/articulaImage.png",
+    link: "https://via-tours-t.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/via-tours",
+    tags: ["HTML", "CSS", "OOP", "Swiper"]
+  },
+  {
+    id: 9,
+    title: "Best AI chatbots 2025",
+    desc: "",
+    img: "/static/projects/articulaImage.png",
+    link: "/projects",
+    github: "https://github.com/abdalmjeedalshami/The-best-AI-chatbots-of-2025",
     tags: ["HTML", "CSS", "OOP", "Swiper"]
   },
 ];

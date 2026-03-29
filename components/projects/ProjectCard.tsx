@@ -15,12 +15,13 @@ function ProjectCard({ project }) {
         className={`w-full relative rounded-xl border-fun-gray border p-2 transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink will-change-projectCard`}
       >
         <Image
-  src={project.img}
-  alt={project.title}
-  width={400}
-  height={250}
-  className="w-full h-48 rounded-md"
-/>
+          // src={project.img}
+          src={`https://image.thum.io/get/noanimate/width/400/wait/5/${project.link}`}
+          alt={project.title}
+          width={400}
+          height={250}
+          className="w-full h-48 rounded-md"
+        />
       </a>
       <div className="w-full mt-5">
         <div className="flex projects-center justify-between">
