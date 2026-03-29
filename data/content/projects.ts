@@ -13,15 +13,6 @@ const projects: Project[] = [
   },
   {
     id: 1,
-    title: "3DFi",
-    desc: "Create stunning 3D assets effortlessly. No coding required.",
-    img: "/static/projects/3dfiImage.png",
-    link: "https://3dfi.vercel.app",
-    github: "https://github.com/abdalmjeedalshami/3DFi",
-    tags: ["HTML", "CSS", "Javascript"],
-  },
-  {
-    id: 2,
     title: "3legant",
     desc: "Stylish furniture, affordable prices, timeless designs, transforming homes into comfortable living spaces.",
     img: "/static/projects/3legant-image.jpg",
@@ -30,13 +21,22 @@ const projects: Project[] = [
     tags: ["HTML", "CSS", "OOP", "Swiper"],
   },
   {
-    id: 3,
+    id: 2,
     title: "Agrios",
     desc: "Agriculture & Organic Market",
     img: "/static/projects/agrios.png",
     link: "https://agrios-t.vercel.app",
     github: "https://github.com/abdalmjeedalshami/Agrios",
     tags: ["React", "NextJS", "SCSS", "API"],
+  },
+  {
+    id: 3,
+    title: "Future Tech",
+    desc: "Explore the Frontiers of Artificial Intelligence",
+    img: "/static/projects/future-tech.png",
+    link: "https://future-tech-t.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/future-tech",
+    tags: ["HTML", "CSS", "OOP", "Swiper"]
   },
   {
     id: 4,
@@ -49,24 +49,6 @@ const projects: Project[] = [
   },
   {
     id: 5,
-    title: "Future Tech",
-    desc: "Explore the Frontiers of Artificial Intelligence",
-    img: "/static/projects/future-tech.png",
-    link: "https://future-tech-t.vercel.app",
-    github: "https://github.com/abdalmjeedalshami/future-tech",
-    tags: ["HTML", "CSS", "OOP", "Swiper"]
-  },
-  {
-    id: 6,
-    title: "Lemon Wares",
-    desc: "Blazing fast web hosting for individuals and businesses of all sizes backed by 24x7x365 Support.",
-    img: "/static/projects/lemon-wares.png",
-    link: "https://lemon-wares-t.vercel.app",
-    github: "https://github.com/abdalmjeedalshami/lemon-wares",
-    tags: ["HTML", "CSS", "OOP", "Swiper"]
-  },
-  {
-    id: 7,
     title: "panto",
     desc: "",
     img: "/static/projects/panto.png",
@@ -75,12 +57,30 @@ const projects: Project[] = [
     tags: ["HTML", "CSS", "OOP", "Swiper"]
   },
   {
-    id: 8,
+    id: 6,
     title: "Via Tours",
     desc: "",
     img: "/static/projects/via-tours.png",
     link: "https://via-tours-t.vercel.app",
     github: "https://github.com/abdalmjeedalshami/via-tours",
+    tags: ["HTML", "CSS", "OOP", "Swiper"]
+  },
+  {
+    id: 7,
+    title: "3DFi",
+    desc: "Create stunning 3D assets effortlessly. No coding required.",
+    img: "/static/projects/3dfiImage.png",
+    link: "https://3dfi.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/3DFi",
+    tags: ["HTML", "CSS", "Javascript"],
+  },
+  {
+    id: 8,
+    title: "Lemon Wares",
+    desc: "Blazing fast web hosting for individuals and businesses of all sizes backed by 24x7x365 Support.",
+    img: "/static/projects/lemon-wares.png",
+    link: "https://lemon-wares-t.vercel.app",
+    github: "https://github.com/abdalmjeedalshami/lemon-wares",
     tags: ["HTML", "CSS", "OOP", "Swiper"]
   },
   {
