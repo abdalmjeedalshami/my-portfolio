@@ -45,7 +45,7 @@ const projects: Project[] = [
     img: "/static/projects/crafting-digital.png",
     link: "https://crafting-digital.vercel.app",
     github: "https://github.com/abdalmjeedalshami/crafting-digital",
-    tags: ["NPM", "HTML"],
+    tags: ["HTML", "Bootstrap","JS", "Responsive"],
   },
   {
     id: 5,
